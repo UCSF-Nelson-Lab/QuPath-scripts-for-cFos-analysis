@@ -1,6 +1,6 @@
 # QuPath-scripts-for-cFos-analysis
 
-Scripts used in Paz et al., 2025 to quantify c-Fos
+Code and data related to Figure 3A-C in Paz et al., 2025
 
 coloc_cfos_copy.groovy : This scripts computes the number of c-Fos+ cells in an annotated region of interest as well as the number of c-Fos+ that are also positive for tdTomato. 
 The results are exported to an excel file. 
